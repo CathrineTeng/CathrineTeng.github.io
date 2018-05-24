@@ -6,16 +6,19 @@ date: 2018-05-23
 comments: false
 ---
     
-<center>![my vatar](../../favicon.jpg)</center>
 
-## Preview
+## Photo
 
 {% capture images %}
-    ../../favicon.jpg
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+    ../../assets/img/avatar.jpg
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="A picture taken in Bangkok" cols=1 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+*Welcome to my personal site!*
+
+I am a web developer and becoming an excellent full-stack developer is my goal. Located in Beijing, China.
+
+A life lover who likes traveling, food and all beautful things.
+
 
       
