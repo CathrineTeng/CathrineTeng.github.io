@@ -9,5 +9,5 @@ The main languages:
 
 ### Jekyll Themes
 
-The theme I take is [Moon](https://github.com/TaylanTatli/Moon), the style of it is so concise and elegent. I so luv it!
+The theme I take is [Moon](https://github.com/TaylanTatli/Moon), which style is so concise and elegent. I so luv it!
 

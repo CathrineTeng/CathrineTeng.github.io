@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Cookies和Sessions的介绍"
+:PluginInstall
 date:   2018-01-02
 excerpt: "Cookies和Sessions是Web开发中基本知识，比较两者的不同，并介绍如何相互协作"
 tag: [web]
@@ -22,6 +23,6 @@ comments: true
 Http协议是无状态协议，及每一次客户端发送请求，都需要重新建立网络连接（TCP连接）。这样可以简化http协议及网络连接，但是也带来一些问题，例如，同一个主机客户端需要每次都告诉服务器是谁登录。
 现在Web开发中，采用的普遍方法是将状态信息保留在服务器端session中，例如用户名，密码，状态信息都放在session中，每个session对应一个独特的session ID，这个session ID以cookies形式返回及保留在客户端。这种方式解决看无状态协议和cookies安全性低的问题。
 
-    without cookies
-    替代cookies但是维持状态信息的另一种方法是将session id的编码放入URL。
+     without cookies
+     替代cookies但是维持状态信息的另一种方法是将session id的编码放入URL。
 
