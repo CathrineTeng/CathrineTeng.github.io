@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Cookies和Sessions的介绍"
-:PluginInstall
 date:   2018-01-02
 excerpt: "Cookies和Sessions是Web开发中基本知识，比较两者的不同，并介绍如何相互协作"
 tag: [web]
